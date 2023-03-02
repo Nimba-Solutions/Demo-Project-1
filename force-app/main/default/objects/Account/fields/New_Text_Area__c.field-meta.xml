@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>New_Text_Area__c</fullName>
     <externalId>false</externalId>
-    <label>New Text Area</label>
+    <label>Business Goals</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>TextArea</type>
